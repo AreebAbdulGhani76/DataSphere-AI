@@ -1,3 +1,11 @@
+<div>
+  
+<p align="center">
+  <img src="images/DataSphere AI_ Predict, Segment, Forecast.png" alt="DataSphere AI Banner" width="100%">
+</p>
+
+</div>
+
 # DataSphere AI
 
 ### Applied Machine Learning & Predictive Analytics
